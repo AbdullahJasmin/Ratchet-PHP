@@ -1,6 +1,19 @@
 # Ratchet-PHP
+ 
+##Pre Requisites
 
-##Simple Ratchet PHP WebSocket server
+You should have `php` installed in your machine
+
+##Using the simple chat application
+
+Run the script at `bin/server.php` using `php Ratchet/bin/server.php`
+
+Open `Main/index.html` in 2 seperate tabs or windows
+
+Type in a comment and press enter or send. 
+
+
+##Testing it out yourself
 
 Run the script at `bin/server.php` using `php Ratchet/bin/server.php`
 
